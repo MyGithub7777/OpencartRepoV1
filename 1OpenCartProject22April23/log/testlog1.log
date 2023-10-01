@@ -1,0 +1,24 @@
+2023-09-29 09:43:27,701 [main] INFO Opencart Automation Project - -----------------------------
+2023-09-29 09:43:27,706 [main] INFO Opencart Automation Project - Framework Execution Started
+2023-09-29 09:43:35,622 [main] INFO Opencart Automation Project - Browser launches
+2023-09-29 09:43:39,201 [main] INFO Opencart Automation Project - Url, maximize, implcitly wait provided
+2023-09-29 09:43:39,250 [main] INFO Opencart Automation Project - -----------------------------
+2023-09-29 09:43:39,252 [main] INFO Opencart Automation Project - Framework Execution Completed
+2023-09-29 09:44:27,801 [main] INFO Opencart Automation Project - -----------------------------
+2023-09-29 09:44:27,812 [main] INFO Opencart Automation Project - Framework Execution Started
+2023-09-29 09:44:32,949 [main] INFO Opencart Automation Project - Browser launches
+2023-09-29 09:44:35,717 [main] INFO Opencart Automation Project - Url, maximize, implcitly wait provided
+2023-09-29 09:44:35,736 [main] INFO Opencart Automation Project - Testcase execution started :-validateloggingintotheApplicationusinginvalidcredentials
+2023-09-29 09:44:36,590 [main] INFO Opencart Automation Project - login page opened
+2023-09-29 09:44:39,167 [main] INFO Opencart Automation Project - Not logged in
+2023-09-29 09:44:39,200 [main] INFO Opencart Automation Project - Testcase execution Passed :-validateloggingintotheApplicationusinginvalidcredentials
+2023-09-29 09:44:42,677 [main] INFO Opencart Automation Project - Browser Closed
+2023-09-29 09:44:44,870 [main] INFO Opencart Automation Project - Browser launches
+2023-09-29 09:44:47,720 [main] INFO Opencart Automation Project - Url, maximize, implcitly wait provided
+2023-09-29 09:44:47,721 [main] INFO Opencart Automation Project - Testcase execution started :-validateloggingintotheApplicationusingvalidcredentials
+2023-09-29 09:44:48,449 [main] INFO Opencart Automation Project - login page opened
+2023-09-29 09:44:51,572 [main] INFO Opencart Automation Project - logged in
+2023-09-29 09:44:51,603 [main] INFO Opencart Automation Project - Testcase execution Passed :-validateloggingintotheApplicationusingvalidcredentials
+2023-09-29 09:44:55,034 [main] INFO Opencart Automation Project - Browser Closed
+2023-09-29 09:44:55,039 [main] INFO Opencart Automation Project - -----------------------------
+2023-09-29 09:44:55,039 [main] INFO Opencart Automation Project - Framework Execution Completed
